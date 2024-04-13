@@ -29,9 +29,8 @@ license: apache-2.0
 Please note that Mistral-22b is still in a WIP. v0.3 has started training now, with a different method than used before, this is to hopefully make the model more round in its internel knowlledge. Through my testing I found V2 to be a significant improvement over v.1.
 
 ### Upcoming Release: V.3
-- v-0.3 will feature a different base model for testing purposed, however this model is pretty darn good for a second test. :)
-- I have done some preliminary results with my different base model, and it appears to achieve a lower loss after the first epoch compared to the other base model used for v0.1 and v0.2. so we have started training v0.3 with the new base model and with the longer dataset, will be done and released in the next 48 hours.
-
+- v0.3 will feature a different base model for testing purposes, however this model is pretty darn good for a second test. :)
+- I have done some preliminary results with my new v0.3 base model, and it appears to achieve a lower loss after the first epoch compared to the other base model used for v0.1 and v0.2. so we have started training v0.3 with the new base model and with the longer dataset, will be done and released in the next 48 hours. :)
 
 ### Stay Updated
 **V.3**, coming soon! And is currently training, will be done in the next ~24 hours. 🌟Paper Coming Soon🌟
