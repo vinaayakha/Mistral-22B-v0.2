@@ -24,6 +24,7 @@ license: apache-2.0
 - **Agent abilities** I did train this model on agent datasets, that teach it to do real world tasks such as picking up an object, and even navigating a webpage based off HTML.
 - **Good Chili Recipe** The model gives a good chili recipe :)
 - **32k Sequence Length** This model was trained with a 32k sequence length.
+- **GUANACO PROMPT FORMAT** YOU MUST USE THE GUANACO PROMPT FORMAT SHOWN BELLOW IN USAGE. Not using this prompt format will lead to sub optimal results.
 
 ### Experimental Nature
 Please note that Mistral-22b is still in a WIP. v0.3 has started training now, with a different method than used before, this is to hopefully make the model more round in its internel knowlledge. Through my testing I found V2 to be a significant improvement over v.1.
@@ -35,7 +36,9 @@ Please note that Mistral-22b is still in a WIP. v0.3 has started training now, w
 ### Stay Updated
 **V.3**, coming soon! And is currently training, will be done in the next ~24 hours. 🌟Paper Coming Soon🌟
 - There will be more of these 22b models. They 5-6 siblings till I find what the best results are for MOE compression.
-- However I am very surprised at how good this V.2 model is, off my small testing.
+- However I am very surprised at how good this V.2 model is, off my small testing. 
+- I will be releasing a blog post soon on how I did this, I still will release a paper with testing and results, but I'm gonna rush out a paper before hand so I can share how I did this. I'd just like to make sure the right people get the right credit for their work that I used, so I have to read up some and make sure everyone gets the credit they deserve, ( and I need quality sleep my entire sleep schedule has been abominated since mixtrals drop.) I appreciate your understanding.
+- I have a bunch of other methods I have yet to try, and many of those methods required me making this model, and running the initial tests, so they are only going to get better from here, I appretiate feedback, thank you!
 
 ### Usage:
 - This model requires a specific chat template, as the training format was Guanaco this is what it looks like:
