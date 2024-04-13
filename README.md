@@ -26,7 +26,7 @@ license: apache-2.0
 - **16k Sequence Length** This model was trained with a 16k sequence length.
 
 ### Experimental Nature
-Please note that Mistral-22b is still in a WIP. V.3 has started training now, with a different method than used before, this is to hopefully make the model more round in its internel knowlledge. Through my testing i found V2 to be a significant improvement over V.2, but I would like to do my testing with other methods.
+Please note that Mistral-22b is still in a WIP. V.3 has started training now, with a different method than used before, this is to hopefully make the model more round in its internel knowlledge. Through my testing i found V2 to be a significant improvement over v.1.
 
 ### Upcoming Release: V.3
 - V-3 will feature a different base model for testing purposed, however this model is pretty darn good for a second test. :)
