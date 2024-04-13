@@ -23,7 +23,7 @@ license: apache-2.0
 - **Json Mode** I did train this model on answering in JSON and using JSON tools., I have yet to try it, in depth but preliminary test shows it works, including.
 - **Agent abilities** I did train this model on agent datasets, that teach it to do real world tasks such as picking up an object, and even navigating a webpage based off HTML.
 - **Good Chili Recipe** The model gives a good chili recipe :)
-- **16k Sequence Length** This model was trained with a 16k sequence length.
+- **32k Sequence Length** This model was trained with a 32k sequence length.
 
 ### Experimental Nature
 Please note that Mistral-22b is still in a WIP. v0.3 has started training now, with a different method than used before, this is to hopefully make the model more round in its internel knowlledge. Through my testing I found V2 to be a significant improvement over v.1.
