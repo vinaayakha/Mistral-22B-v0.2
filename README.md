@@ -3,7 +3,7 @@ license: apache-2.0
 ---
 <img src="https://huggingface.co/Vezora/Mistral-22B-v0.1/resolve/main/unsloth.png" width="100" height="150" />
 
-### Mistral-22b-V.02 Release Announcement 🚀
+### Mistral-22b-v.02 Release Announcement 🚀
 
 ## This model is not an moe, it is infact a 22B parameter dense model!
 
@@ -11,7 +11,7 @@ license: apache-2.0
 **Creator** [Nicolas Mejia-Petit](https://twitter.com/mejia_petit)
 
 ### Overview
-- Just two days after our release of **Mistral-22b-v0.1**, we are excited to introduce our handcrafted experimental model, **Mistral-22b-V.02**. This model is a culmination of equal knowledge distilled from all experts into a single, dense 22b model. This model is not a single trained expert, rather its a compressed MOE model, turning it into a dense 22b mode. This is the first working MOE to Dense model conversion.
+- Just two days after our release of **Mistral-22b-v0.1**, we are excited to introduce our handcrafted experimental model, **Mistral-22b-v.02**. This model is a culmination of equal knowledge distilled from all experts into a single, dense 22b model. This model is not a single trained expert, rather its a compressed MOE model, turning it into a dense 22b mode. This is the first working MOE to Dense model conversion.
 - v0.2 has trained on 8x more data than v0.1!
   
 ### Capabilities
