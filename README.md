@@ -11,8 +11,9 @@ license: apache-2.0
 **Creator** [Nicolas Mejia-Petit](https://twitter.com/mejia_petit)
 
 ### Overview
-Just two days after the release our release of **Mistral-22b-v0.1**, we are excited to introduce our handcrafted experimental model, **Mistral-22b-V.02**. This model is a culmination of equal knowledge distilled from all experts into a single, dense 22b model. This model is not a single trained expert, rather its a compressed MOE model, turning it into a dense 22b mode. This is the first working MOE to Dense model conversion.
-
+- Just two days after our release of **Mistral-22b-v0.1**, we are excited to introduce our handcrafted experimental model, **Mistral-22b-V.02**. This model is a culmination of equal knowledge distilled from all experts into a single, dense 22b model. This model is not a single trained expert, rather its a compressed MOE model, turning it into a dense 22b mode. This is the first working MOE to Dense model conversion.
+- v0.2 has trained on 8x more data than v0.1!
+  
 ### Capabilities
 - **Math Proficiency**: The model exhibits strong mathematical abilities. Dispite not being trained on math.
 - **Better at Coding** The model is significantly better at coding, than V1, it passed some of my simple coding test, such as "Create a simple HTML site with a button that changes the background color to a random color", which V1 failed.
