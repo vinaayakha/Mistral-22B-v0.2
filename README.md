@@ -7,7 +7,7 @@ license: apache-2.0
 
 ## This model is not an moe, it is infact a 22B parameter dense model!
 
-**Date**: April 11
+**Date**: April 13
 **Creator** [Nicolas Mejia-Petit](https://twitter.com/mejia_petit)
 
 ### Overview
