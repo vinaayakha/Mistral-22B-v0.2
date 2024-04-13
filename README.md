@@ -3,7 +3,7 @@ license: apache-2.0
 ---
 <img src="https://huggingface.co/Vezora/Mistral-22B-v0.1/resolve/main/unsloth.png" width="100" height="150" />
 
-### Mistral-22b-V.01 Release Announcement 🚀
+### Mistral-22b-V.02 Release Announcement 🚀
 
 ## This model is not an moe, it is infact a 22B parameter dense model!
 
