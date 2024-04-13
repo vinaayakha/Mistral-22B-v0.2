@@ -50,7 +50,7 @@ Please note that Mistral-22b is still in a WIP. v0.3 has started training now, w
 - Thank you to [Tri Dao](https://twitter.com/tri_dao), for creating Flash Attention
 - Thank you to Microsoft, for the Lora paper, and the Slice-GPT paper.
 - Thank you to the Hugging Face team, for everything.❤️ We really do appreciate you guys and all your hard work and commitment to the open source community!❤️
-- Thank you to I used one of his DPO datasets converted to SFT, more info will be explained in paper.[Jon Durbin](https://x.com/jon_durbin?s=21)
+- Thank you to [Jon Durbin](https://x.com/jon_durbin?s=21) I used one of his DPO datasets converted to SFT, more info will be explained in paper.
 
 
 ## Future plans, train 4-5 more of these experimental models gather preliminary testing results, and then run evaluations on all the models I see have the best possibilities of excelling, then use the best one.
