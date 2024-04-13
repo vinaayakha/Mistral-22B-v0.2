@@ -53,4 +53,4 @@ Please note that Mistral-22b is still in a WIP. V.3 has started training now, wi
 - Thank you to the Hugging Face team, for everything.❤️ We really do appreciate you guys and all your hard work and commitment to the open source community!❤️
 
 
-## Future plans, train 4-5 more of these expirmental models gather preliminary testing results, and then run evaluations on all the models I see have the best possibilities of excelling, then use the best one.
+## Future plans, train 4-5 more of these experimental models gather preliminary testing results, and then run evaluations on all the models I see have the best possibilities of excelling, then use the best one.
