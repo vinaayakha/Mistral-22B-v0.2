@@ -47,7 +47,7 @@ Please note that Mistral-22b is still in a WIP. v0.3 has started training now, w
 
 ## Thank you!
 - Thank you to [Daniel Han](https://twitter.com/danielhanchen), for Unsloth AI which was used to train this model. this led to a 2-3x speed increae and 2-3x decrease in memmory consumption.
-- Thank you to [Charles Coddard](https://twitter.com/chargoddard), for providng me with a script that was nessary to make this model.
+- Thank you to [Charles Goddard](https://twitter.com/chargoddard), for providng me with a script that was nessary to make this model.
 - Thank you to Mistral, for releasing Another Wonderful open source model, under Apache 2.0.
 - Thank you to [Tim Dettmers](https://twitter.com/Tim_Dettmers), for creating QLora
 - Thank you to [Tri Dao](https://twitter.com/tri_dao), for creating Flash Attention
